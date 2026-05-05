@@ -1,0 +1,8 @@
+artDisplay,The Annunciation,painting,70
+artDisplay,Mona Lisa,painting,65
+artDisplay,The Baptism of Christ,painting,-90
+artDisplay,David,statue,100
+artDisplay,Moses,painting,30
+subscriber,Dany,1,2,4,5
+subscriber,Yael,5,3,5,2
+subscriber,Jhon,2,3,1,2
